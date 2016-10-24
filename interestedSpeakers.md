@@ -1,11 +1,11 @@
 # People interested in speaking at React SP Meetup:
 
-## (work name)
+## (my name is...)
 
 ### Bio
-Work on React @ (company)
+Work on React @ (my company name)
 
 ### Outline
-(something about your work)
+(something about your work...)
 
 
